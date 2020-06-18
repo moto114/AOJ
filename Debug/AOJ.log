@@ -1,0 +1,7 @@
+﻿  ITP2_2_A.c
+  ITP2_2_A_funcpoint.c
+C:\work\AOJ\AOJ\AOJ\ITP2_2_A_funcpoint.c(33,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\work\AOJ\AOJ\AOJ\ITP2_2_A_funcpoint.c(45,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\work\AOJ\AOJ\AOJ\ITP2_2_A_funcpoint.c(59,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  コードを生成中...
+  AOJ.vcxproj -> C:\work\AOJ\AOJ\Debug\AOJ.exe
